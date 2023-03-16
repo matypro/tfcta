@@ -12,7 +12,7 @@ variable "profile" {
 
 variable "Project" {
   type    = string
-  default = "mimimi"
+  default = "prod"
 }
 
 ## Environment and Project
