@@ -10,6 +10,10 @@ variable "profile" {
   default = "cta"
 }
 
+variable "Project" {
+  type    = string
+  default = "mimimi"
+}
 
 ## Environment and Project
 variable "company" {

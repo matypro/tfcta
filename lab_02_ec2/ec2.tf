@@ -8,6 +8,8 @@ resource "aws_instance" "server1" {
  
   tags = {
     Name    = "vm_lab2"
+    Project = "${var.Project}-new"
+    Project1 = var.Project
   }
 }
 
