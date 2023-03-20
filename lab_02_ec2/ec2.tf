@@ -10,6 +10,7 @@ resource "aws_instance" "server1" {
     Name    = "vm_lab2"
     Project = "${var.Project}-new"
     Project1 = var.Project
+    Name    = "vm-${local.name_suffix}-1"
   }
 }
 
