@@ -1,8 +1,6 @@
-# profile = "cta"
-# profile = "975030449833_TerraformCourse"  (RAFA)
-profile = "YOURACCOUNT_TerraformCourse"
+profile = "cta"
 
-region  = "eu-west-1"
+region = "eu-west-1"
 
 project     = "acme02"
 environment = "dev"
