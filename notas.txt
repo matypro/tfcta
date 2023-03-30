@@ -1,0 +1,5 @@
+https://gkcourse.awsapps.com/start ->
+https://eu-west-1.signin.aws/platform/login?workflowStateHandle=1162a8cc-895e-49b8-a754-9a0ce15dcc9c
+
+student15 / Student15.2023.1
+

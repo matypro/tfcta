@@ -1,0 +1,10 @@
+Terraform provider cache
+
+File :  terraform.rc
+Location of terraform.rc 
+%APPDATA%
+d:\usuarios\CTA\Appdata\Roaming
+
+Contents of terraform.rc:
+
+plugin_cache_dir = "$APPDATA/terraform.d/plugin-cache"
